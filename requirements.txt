@@ -1,5 +1,7 @@
-transformers
 datasets
+matplotlib
 numpy
 pandas
 requests
+sklearn
+transformers
